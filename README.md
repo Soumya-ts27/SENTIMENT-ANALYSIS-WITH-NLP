@@ -105,4 +105,5 @@ This program is an end-to-end implementation of sentiment analysis using a Logis
 The use of accuracy score, classification report, and confusion matrix provides a comprehensive evaluation of model performance, while visualization enhances interpretability.
 
 **OUTPUT**:![Image](https://github.com/user-attachments/assets/111a423f-3483-4bfa-9365-61d90f8af71c) 
+           ![Image](https://github.com/user-attachments/assets/ffc043c1-d670-485b-b808-4d8fc886efc0)
            
