@@ -103,3 +103,6 @@ The confusion matrix is visualized using Matplotlib and Seaborn. The plot uses a
 This program is an end-to-end implementation of sentiment analysis using a Logistic Regression model. By preprocessing the data using TF-IDF, it effectively converts text into numerical features. Logistic Regression is a suitable choice for binary classification tasks like sentiment analysis. Additionally, clear error-handling mechanisms ensure robust performance across various datasets.
 
 The use of accuracy score, classification report, and confusion matrix provides a comprehensive evaluation of model performance, while visualization enhances interpretability.
+
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/111a423f-3483-4bfa-9365-61d90f8af71c) 
+           
